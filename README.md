@@ -1,4 +1,4 @@
-# CienciaDaComputacao
+# Ciencia Da Computacao
 Repositório para guardar meus estudos na Puc Minas Ciência da Computação
 
 | Prova | Prática | Teórica | Total |
